@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31239032-941D-4412-B14A-26603EABF704</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tabBar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E0F972F4-812B-4B70-BCBE-44DCFD36F09B</key>
+		<string>https://github.com/Samirsn/FlockingApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Thesis- Font copy/tabBar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E0F972F4-812B-4B70-BCBE-44DCFD36F09B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Samirsn/FlockingApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E0F972F4-812B-4B70-BCBE-44DCFD36F09B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0F972F4-812B-4B70-BCBE-44DCFD36F09B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlockingApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
